@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Klayrex
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Klayrex Python
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me Python
 
 <!---
 Klayrex/Klayrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
